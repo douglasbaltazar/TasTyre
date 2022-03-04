@@ -16,7 +16,7 @@ function Home() {
                     variant='body1'
 
                 >
-                    O Tastyre é uma forma de juntar seu belo gosto musical com o acrescimo cultural regional, para que você e a região desejada enriqueça culturalmente.
+                    O TasTyre é uma forma de juntar seu belo gosto musical com o acrescimo cultural regional, para que você e a região desejada enriqueça culturalmente.
                 </Typography>
                 <Typography 
                     color='white'
